@@ -3,7 +3,7 @@
  - 😄 I'm Seungwook Kim
  - 👀 I’m interested in Java, Python
  - 🌱 I’m currently learning Spring
-<br>
+
 
 ### 🛠 Tech Stack
 
@@ -19,7 +19,6 @@
 <img src="https://img.shields.io/badge/TravisCI-3EAAAF?style=flat-square&logo=TravisCI&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/NGINX-009639?style=flat-square&logo=NGINX&logoColor=white"/></a>
 
-<br>
 
 ### 🧭 Stats
 
