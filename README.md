@@ -1,8 +1,7 @@
 
 ### Hi there 👋
  - 😄 I'm Seungwook Kim
- - 👀 I’m interested in Java, Python
- - 🌱 I’m currently learning Spring
+ - 👀 I’m interested in Java, Spring
 
 
 ### 🛠 Tech Stack
